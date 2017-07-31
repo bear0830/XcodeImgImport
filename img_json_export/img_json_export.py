@@ -84,6 +84,5 @@ def create_img_dir():
 
 
 if __name__ == '__main__':
-	#resize_img()
 	create_img_dir()
 	print "done"
