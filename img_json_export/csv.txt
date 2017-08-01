@@ -1,0 +1,109 @@
+P1,光の旋律 , 空·之·音 OP 
+P2,Level 5 judgelight , 某科学的超导电磁炮 OP 2 
+P3,Trust me , 无头骑士异闻录 ED 1 
+P4,GO! GO! Maniac , 轻音少女 OP2 
+P5,Brave Song , Angel beats! ED 
+P6,All in good time , 灼眼的夏娜S （OVA）ED 
+P7,Butter,fly , 数码宝贝 OP 
+P8,AQUA , 水星领航员 OST 
+P9,Anime piano medley , Anime piano 串烧
+P10, 善意的忘却 , 凉宫春日的消失 ED 
+P11, Fallen Angel , 吊带袜天使 ED 
+P12, Magia , 魔法少女小圆 ED 
+P13, Daydream Syndrome , 食梦者玛莉 OP 
+P14, Sis puella magica! , 魔法少女小圆 OST 
+P15, Scarlet Ballet , 绯弹的亚里亚 OP 
+P16, ZZZ , 日常 ED 
+P17, Sagitta luminis , 魔法少女小圆 OST 
+P18, 从这开始的故事 , 异国迷宫的十字路口 ED 
+P19, 刻司ル十二ノ盟約 , 命运石之门 ED 
+P20, Cras numquam scire , 丹特丽安的书架 OP 
+P21, REDLINE DAY , 红线  OST 
+P22, Light my Fire , 灼眼的夏娜 III Op 
+P23, 空想神话 , 未来日记 OP 1 
+P24, Euterpe , 罪恶王冠 OST 
+P25, Oath Sign , Fate_Zero OP 
+P26, Lumis Eterne , 水星领航员 OST 
+P27, Wiosna , 片轮少女 主题曲 
+P28, Anamnesis , Another ED 
+P29, Bios , 罪恶王冠 OST 
+P30, 谜样女友 X , Dream theme 
+P31, 没有剧本的故事 , 散华礼弥 OP 
+P32, unfinished , 加速世界 ED 
+P33, 優しさの理由 , 冰菓 OP 
+P34, Megumeru Cuckool mix, Clannad OP 
+P35, 在黎明前苏醒的少女 , 灼眼的夏娜 ED1 
+P36, Sakura , 交响诗篇 OP 4 
+P37, 明日的回家路上 , 夏色奇迹 ED 
+P38, 关于希望 , AKB0048 OP 
+P39, 梦将不断重生 , AKB0048 ED1
+P40, Kanashimi no ato ni , AKB0048 
+P41, 君にまつわるミステリー , 冰菓 ED 2 
+P42, 未完成ストライド , 冰菓 OP 2 
+P43, 心之旋律 , Tari Tari 
+P44, Anime Piano Medley II, Anime Piano
+P45, Sparkling Daydream , 中二病也要谈恋爱 OP 
+P46, Little Busters! [Full] , Little Busters! OP 
+P47, 名前のない怪物 , Psycho Pass ED 
+P48, Only my railgun , 某科学的超电磁炮 OP 
+P49, Enter Enter Mission! , 少女与战车 ED 
+P50, 虹の列车 , AKB0048 
+P51, この涙を君に捧ぐ , AKB0048 Next Stage ED
+P52, 希望の花 , 琴浦小姐 ED 
+P53, My Soul, your Beats! , Angel Beats! OP 
+P54, My Dearest [Full] , 罪恶王冠 OP 1 
+P55, 主なきその声 , AKB0048 Next Stage OP 
+P56, 紅蓮の弓矢 , 进击的巨人 OP 
+P57, Sister's Noise , 某科学的超导电磁炮 S OP 1 
+P58, Cha la Head Cha la , 七龙珠 Z OP 
+P59, 月光传说 , 美少女战士 OP 
+P60, Brave Heart , 数码宝贝进化曲 
+P61, 僕じゃない , 革命机Valvrave ED1 
+P62, 恋文  , 静流 ED
+P63, Challenge accepted,Challenge accepted
+P64, 空とキミのメッセージ , 翠星之加尔刚蒂亚 ED 
+P65, Hello Alone , 我的青春恋爱物语果然有问题 ED 
+P66, 灼眼的夏娜串烧 , All OP 
+P67, Beethoven Piano Sonata no. 26 E flat,major (Les Adieux)
+P68, 東方project ~ 3rd eye , 東方project
+P69, Attack on Titan , 进击的巨人 OST 
+P70, 自由之翼 , 进击的巨人 OP2
+P71, The Story behind , The Story behind 
+P72, Blessing , 神不在的星期天 OST 
+P73, World End , Code Geass 反叛的鲁路修 OP 2 
+P74, Unbeatable Network , 科学小飞侠 Crowds OST 
+P75, Boys be Smile , Little Busters Refrain OP 
+P76, Sweet & Sweet Cherry , 青春纪行 ED 1 
+P77, アイモ , 超时空要塞 Frontier OST
+P78, 悠哉日常大王, 悠哉日常大王 OP
+P79, The Reluctant Heroes , 进击的巨人 OST 
+P80, City of Eternity (Main Theme) , 京骚戏画 OST 
+P81, Allegro Cantabile Sound , 交响情人梦 OP 
+P82, Brave Song  , Angel Beats ED 
+P83, This is (not) the End, This is (not) the End
+P84, Pierce the heavens with your drill!! , 天元突破 红莲螺岩 OST 
+P85, Blumenkranz , Kill la Kill OST 
+P86, Don't Lose your way , Kill la Kill OST 
+P87, Faraway , Little Busters! OST 
+P88, まっしろわーるど , 未确认进行式 ED 
+P89,来自风平浪静的明天 串烧 , All OP and ED 
+P90, One Last Song , One Last Song
+P91, 终わりの世界から , 麻枝准 
+P92, 魔法少女小圆 , Soundtrack Medley 
+P93, Patema Inverse , 颠倒的帕特玛 ED 
+P94, Killy Killy Joker , 选择感染者 WIXOSS OP 
+P95, 请问您今天要来点兔子吗？, OST 
+P96, This Game , No Game No Life OP 
+P97, Philosophyz , Rewrite OP 
+P98, Swordland (Main Theme), 刀剑神域 OST
+P99, My precious Friend , 一周的朋友 OST 
+P100,  Main Theme from Laputa , 天空之城
+P101,  God knows... , 凉宫春日的忧郁 
+P102,  My Dearest , 罪恶王冠 OP1
+P103,  你所不知道的故事 , 化物语 ED 
+P104,  The City in the Night, The City in the Night  
+P105,  Extra Magic Hour ,甘城光辉游乐园 OP 
+P106,  光るなら , 四月是你的谎言 OP 
+P107, Medley , 凉宫春日的忧郁 
+P108, EONIAN , 乐园追放 ED 
+P109,  Unravel , 东京吃货 OP 
