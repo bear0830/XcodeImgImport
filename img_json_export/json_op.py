@@ -61,13 +61,13 @@ def export_json_from_csv():
             # 跳过第一行属性名
 			#continue
 			
-		print (line[0]) #P99 文件名与图像名
+		print (line[0]) #P99 文件名与图像名 不含后缀
 		print (line[1]) #Unravel 曲名
 		print (line[2]) #东京食种 OP 描述
 		append_obj = copy.deepcopy(template_obj)
-		append_obj["name"] = line[1]
-		append_obj["streamURL"] = line[0] + ".mp3"
-		append_obj["imageURL"] = line[0]
+		append_obj["name"] = line[1] 
+		append_obj["streamURL"] = line[0]  # P99.mp3文件 不含后缀
+		append_obj["imageURL"] = line[0]   # P99.jpg或P99.png  不含后缀
 		append_obj["desc"] = line[2]
 		append_obj["longDesc"] = ""
 		lj["station"].append(append_obj)
@@ -107,8 +107,8 @@ def export_json():
 		#print i
 		append_obj = copy.deepcopy(template_obj)
 		append_obj["name"] = name
-		append_obj["streamURL"] = name + ".mp3"
-		append_obj["imageURL"] = name
+		append_obj["streamURL"] = name #mp3 文件 但是不用加后缀
+		append_obj["imageURL"] = name  #jpg或png 文件 但是不用加后缀
 		append_obj["desc"] = ""
 		append_obj["longDesc"] = ""
 		lj["station"].append(append_obj)
