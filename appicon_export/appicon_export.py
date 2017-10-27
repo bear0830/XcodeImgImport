@@ -67,7 +67,7 @@ def get_imageset():
 		name, ext = os.path.splitext(filename)
 		print name
 		#在输出目录下，创建imageset目录
-		out_imageset =  output_path+"/"+ name + ".imageset"
+		out_imageset =  output_path+"/"+ name + ".appiconset"
 		if(not os.path.exists(out_imageset)):
 			os.mkdir(out_imageset)
 			
@@ -109,7 +109,7 @@ def get_imageset():
 		name, ext = os.path.splitext(filename)
 		print name
 		#在输出目录下，创建imageset目录
-		out_imageset =  output_path+"/"+ name + ".imageset"
+		out_imageset =  output_path+"/"+ name + ".launchimage"
 		if(not os.path.exists(out_imageset)):
 			os.mkdir(out_imageset)	
 			
